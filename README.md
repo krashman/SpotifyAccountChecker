@@ -7,4 +7,4 @@ Duh.
 ## Will you code more free stuff?
 For sure.
 ## Why did you make this?
-![alt text](https://image.prntscr.com/image/rIoTezfVTH2cBn1SB_vt-w.png)
+![alt text](https://github.com/RaghavJH/SpotifyAccountChecker/blob/master/music_for_everyone.png?raw=true)

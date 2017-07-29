@@ -1,0 +1,10 @@
+C:\Users\Raghav\Documents\Visual Studio 2017\Projects\SpotifyCracker\SpotifyCracker\obj\Debug\SpotifyCracker.csprojResolveAssemblyReference.cache
+C:\Users\Raghav\Documents\Visual Studio 2017\Projects\SpotifyCracker\SpotifyCracker\obj\Debug\SpotifyCracker.Form1.resources
+C:\Users\Raghav\Documents\Visual Studio 2017\Projects\SpotifyCracker\SpotifyCracker\obj\Debug\SpotifyCracker.csproj.GenerateResource.Cache
+C:\Users\Raghav\Documents\Visual Studio 2017\Projects\SpotifyCracker\SpotifyCracker\bin\Debug\SpotifyAccountChecker.exe.config
+C:\Users\Raghav\Documents\Visual Studio 2017\Projects\SpotifyCracker\SpotifyCracker\bin\Debug\SpotifyAccountChecker.exe
+C:\Users\Raghav\Documents\Visual Studio 2017\Projects\SpotifyCracker\SpotifyCracker\bin\Debug\SpotifyAccountChecker.pdb
+C:\Users\Raghav\Documents\Visual Studio 2017\Projects\SpotifyCracker\SpotifyCracker\obj\Debug\SpotifyAccountChecker.Properties.Resources.resources
+C:\Users\Raghav\Documents\Visual Studio 2017\Projects\SpotifyCracker\SpotifyCracker\obj\Debug\SpotifyAccountChecker.exe
+C:\Users\Raghav\Documents\Visual Studio 2017\Projects\SpotifyCracker\SpotifyCracker\obj\Debug\SpotifyAccountChecker.pdb
+C:\Users\Raghav\Documents\Visual Studio 2017\Projects\SpotifyCracker\SpotifyCracker\obj\Debug\SpotifyAccountChecker.Form1.resources

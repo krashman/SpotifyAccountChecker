@@ -6,3 +6,5 @@ Yes - but please give me credit.
 Duh.
 ## Will you code more free stuff?
 For sure.
+## Why did you make this?
+![alt text](https://image.prntscr.com/image/rIoTezfVTH2cBn1SB_vt-w.png)

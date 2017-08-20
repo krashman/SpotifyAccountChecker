@@ -106,7 +106,11 @@ namespace SpotifyAccountChecker
                     foreach(Cookie _Cookie in GlobalCookies)
                     {
                         string CookieString = _Cookie.ToString();
-                        if (CookieString.StartsWith("sp_dc")) wc.Headers.Add(HttpRequestHeader.Cookie, CookieString);
+                        if (CookieString.StartsWith("sp_dc"))
+                        {
+                            wc.Headers.Add(HttpRequestHeader.Cookie, CookieString);
+                            break;
+                        }
                     }
 
                     string ResponseHTML = wc.UploadString(OVERVIEW_URL, PostData);
